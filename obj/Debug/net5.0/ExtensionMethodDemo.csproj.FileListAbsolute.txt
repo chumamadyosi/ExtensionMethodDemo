@@ -1,0 +1,16 @@
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\bin\Debug\net5.0\ExtensionMethodDemo.exe
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\bin\Debug\net5.0\ExtensionMethodDemo.deps.json
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\bin\Debug\net5.0\ExtensionMethodDemo.runtimeconfig.json
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\bin\Debug\net5.0\ExtensionMethodDemo.runtimeconfig.dev.json
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\bin\Debug\net5.0\ExtensionMethodDemo.dll
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\bin\Debug\net5.0\ExtensionMethodDemo.pdb
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.csproj.AssemblyReference.cache
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.AssemblyInfoInputs.cache
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.AssemblyInfo.cs
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.dll
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\obj\Debug\net5.0\refint\ExtensionMethodDemo.dll
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.pdb
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.genruntimeconfig.cache
+C:\Users\ChumaM\source\repos\ExtensionMethodDemo\obj\Debug\net5.0\ref\ExtensionMethodDemo.dll
